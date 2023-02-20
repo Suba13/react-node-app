@@ -1,0 +1,22 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "item": "Pizza",
+        "price": "499",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Supreme_pizza.png"
+      },
+      {
+        "id": 2,
+        "item": "Burger",
+        "price": "300",
+        "image": "http://bk-apac-prd.s3.amazonaws.com/sites/burgerkingindia.in/files/VegWhopper-Thumb_0.png"
+      },
+      {
+        "id": 3,
+        "item": "sandwich",
+        "price": "599",
+        "image": "http://img.taste.com.au/CE1-UE-i/taste/2016/11/salami-chargrilled-capsicum-toasted-sandwich-with-baby-spinach-goats-cheese-62640-1.jpeg"
+      }
+    ]
+}

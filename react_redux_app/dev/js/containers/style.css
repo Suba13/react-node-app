@@ -1,0 +1,154 @@
+.header{
+    padding: 20px;
+    background-color: black;
+    color:white;
+    letter-spacing: 9px;
+    font-family:fantasy;
+    font-size: 40px;
+    text-align: center;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    margin: 0; 
+}
+.bgColor{
+    background-color: rgb(12, 138, 170);
+}
+.marginLogin{
+    margin-left: 45%;
+    margin-bottom: 30px;
+}
+.marginPhone{
+    margin-left: 38%;
+    margin-bottom: 30px;
+}
+.marginName{
+    margin-left: 38%;
+    margin-bottom: 30px;
+}
+.marginLoginBtn{
+    margin-left: 47%;
+    margin-bottom: 50px;
+    border:none;
+    background-color: black;
+    color:white;
+    font-size:15px;
+    width:100px;
+    height:30px;
+}
+.phoneInput{
+    margin-left: 7%;
+}
+.nameInput{
+    margin-left: 13.5%;
+}
+.itemImage{
+    height: 200px;
+    width:200px;
+}
+underlineRemove{
+    text-decoration: none;
+}
+
+.adminItemHeading{
+    background-color: #2874f0;
+    color: #ffffff;
+    margin: unset;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.adminBtnLine{
+    text-align: center;
+}
+.adminBtnAlign{
+    height: 25px;
+    width:70px;
+    text-decoration: none;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    margin-left: 2%;
+}
+.AdminAddMargin1{
+    margin-left: 6%;
+}
+.AdminAddMargin2{
+    margin-left: 2%;
+}
+.AdminAddMargin3{
+    margin-left: 4%;
+}
+.AdminAddMargin4{
+    margin-left: 2%;
+}
+.adminDivAlign{
+    text-align: center;
+}
+.adminAddHeading{
+    background-color: #2874f0;
+    color:#ffffff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.AdminEditImg{
+    height:200px;
+    width:200px;
+}
+.adminEditHeading{
+    background-color: #2874f0;
+    color:#ffffff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.adminViewHeading{
+    background-color: #2874f0;
+    color:#ffffff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.AdminViewTxt{
+    text-align: center;
+}
+.AdminEdittextalign{
+    margin-left:40%
+}
+.itemImage{
+    height: 200px;
+    width:200px;
+    margin-left: 42%;
+}
+.AdminViewback{
+    margin-left: 47%;
+}
+underlineRemove{
+    text-decoration: none;
+}
+table, td, th {    
+    border: 1px solid rgb(17, 17, 17);
+    text-align: left;
+    font-size:26px;
+  }
+  th{
+    background-color: #4CAF50;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  tr:hover {background-color:#f5f5f5;}
+  tr:nth-child(even) {background-color: #f2f2f2;}
+  td{
+      background-color: aqua
+  }
+  .image{
+    height:100px;
+    width:100px;
+   }
